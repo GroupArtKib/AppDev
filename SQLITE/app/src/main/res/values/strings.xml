@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Sqliite</string>
+    <string name="enter_id_number">Enter ID number</string>
+</resources>
